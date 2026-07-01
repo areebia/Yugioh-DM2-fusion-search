@@ -8,6 +8,7 @@ Code is built with google gemini, reluctantly.
 
 ## How to use
 - download python
+- download this repo
 - open cards.txt file and edit with the cards you currently have in your hand, then save
 - run the python script
 - ???
