@@ -12,3 +12,4 @@ Code is built with google gemini, reluctantly.
 - run the python script
 - ???
 - voila, you will have the combinations available to you
+
