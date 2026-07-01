@@ -77,10 +77,10 @@ def find_possible_fusions(card_list, recipe_db):
 # --- Main Execution ---
 if __name__ == "__main__":
     # 1. Load the master recipe rules and extract every unique card name
-    fusion_database, known_cards = load_recipes(r"D:\yugioh fusions.txt")
+    fusion_database, known_cards = load_recipes(r"yugioh fusions.txt")
     
     # 2. Load your hand (now allowing partial names)
-    my_cards = load_hand_with_fuzzy_search(r"D:\cards.txt", known_cards)
+    my_cards = load_hand_with_fuzzy_search(r"cards.txt", known_cards)
     
     if my_cards and fusion_database:
         print(f"\nSuccessfully resolved hand to: {my_cards}\n")
