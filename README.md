@@ -10,7 +10,10 @@ Code is built with google gemini, reluctantly.
 - download python
 - download this repo
 - open cards.txt file and edit with the cards you currently have in your hand, then save
-- run the python script
+- run the run_fusion_finder.bat file
 - ???
 - voila, you will have the combinations available to you
+
+
+If anyone wants to make it into an executable, be my guest
 
