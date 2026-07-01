@@ -1,0 +1,2 @@
+python combinatorics.py
+pause
